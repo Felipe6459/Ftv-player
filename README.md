@@ -1,5 +1,6 @@
 # Ftv-player
 Cineplay TV - Filmes, séries e canais em um só lugar
+CANCELE A NETFLIX E TENHA TODOS OS CONTEÚDOS EM UM SO LUGAR
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
