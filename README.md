@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 # Ftv-player
 Cineplay TV - Filmes, séries e canais em um só lugar
 CANCELE A NETFLIX E TENHA TODOS OS CONTEÚDOS EM UM SO LUGAR
@@ -5,7 +6,6 @@ CANCELE A NETFLIX E TENHA TODOS OS CONTEÚDOS EM UM SO LUGAR
 <p style="color:#aaa;font-size:14px;">
 Funciona em Smart TV, TV Box, celular Android e computador
 </p>
-<!DOCTYPE html>
 <html lang="pt-br">
 <head>
 <meta charset="UTF-8">
