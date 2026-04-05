@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 # Ftv-player
 <h1>🔥 Mais de 100 mil conteúdos na sua TV</h1>
 <p>Assista tudo em um só lugar sem travamentos</p>
