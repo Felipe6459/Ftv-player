@@ -6,6 +6,13 @@
 <p style="color:#7b2cff;font-weight:bold;">
 🔥 Teste grátis + ativação imediata
 </p>
+<p style="color:#7b2cff;font-weight:bold;margin-top:10px;">
+🔥 +2.000 clientes ativos agora
+</p>
+
+<p style="color:#aaa;font-size:13px;">
+✔ Sem travamentos ✔ Atualizado diariamente ✔ Suporte rápido
+</p>
 CANCELE A NETFLIX E TENHA TODOS OS CONTEÚDOS EM UM SO LUGAR
 
 <p style="color:#aaa;font-size:14px;">
