@@ -319,5 +319,11 @@ setTimeout(()=>{
 },8000);
 </script>
 
+<script>
+function copiarPix() {
+  navigator.clipboard.writeText("3c3a8735-4475-4340-8090-649f95432cfa");
+  alert("Chave Pix copiada!");
+}
+</script>
 </body>
 </html>
