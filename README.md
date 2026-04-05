@@ -191,6 +191,29 @@ body{
 <div>Vale muito a pena ★★★★★</div>
 </div>
 
+<h2>💰 Pagamento via Pix</h2>
+
+<p style="color:#aaa;font-size:14px;">
+Pague via Pix e envie o comprovante para liberação imediata
+</p>
+
+<div style="background:#111;padding:15px;border-radius:10px;margin:15px;">
+
+<p style="font-size:14px;color:#aaa;">Chave Pix:</p>
+
+<p style="font-size:18px;color:#7b2cff;word-break:break-all;">
+<b>3c3a8735-4475-4340-8090-649f95432cfa</b>
+</p>
+
+<button class="btn" onclick="copiarPix()">
+📋 Copiar chave Pix
+</button>
+
+<a class="btn" href="https://wa.me/5582996062108?text=Já%20fiz%20o%20pagamento%20via%20Pix%2C%20segue%20comprovante">
+📲 Enviar comprovante
+</a>
+
+</div>
 <h2>💰 Planos Mensais</h2>
 
 <div class="card">
