@@ -132,6 +132,26 @@ body{
 
     <a class="btn" href="https://wa.me/5582996062108?text=Quero%20teste%20gratis">
       🎁 TESTE GRÁTIS
+      <h2>📲 Baixe o App</h2>
+
+<!-- ANDROID -->
+<a class="btn" href="http://dl.ntdev.in/89797">
+📲 BAIXAR APP ANDROID
+</a>
+
+<p style="font-size:12px;color:#aaa;">
+⚠️ Caso o download não inicie, permita instalação de fontes desconhecidas
+</p>
+
+<!-- TV BOX -->
+<h3 style="margin-top:20px;">📺 TV Box / Fire Stick</h3>
+<p>Use o código no app Downloader:</p>
+<p style="font-size:24px;color:#7b2cff;"><b>1072646</b></p>
+
+<!-- SUPORTE -->
+<a class="btn" href="https://wa.me/5582996062108?text=Preciso%20de%20ajuda%20para%20instalar">
+📞 AJUDA PARA INSTALAR
+</a>
     </a>
   </div>
 </div>
