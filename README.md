@@ -286,7 +286,7 @@ const nomes = [
 setInterval(()=>{
 let p=document.getElementById('popup');
 let nome = nomes[Math.floor(Math.random()*nomes.length)];
-p.innerHTML = nome + " acabou de assinar 🔥";
+p.innerHTML = nome + " acabou de assinar🔥";
 p.style.display='block';
 
 setTimeout(()=>{
