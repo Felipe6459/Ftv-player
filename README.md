@@ -247,6 +247,7 @@ document.getElementById('timer').innerHTML=m+":"+(s<10?'0':'')+s;
 time--;
 if(time<0) time=600;
 },1000);
+  
 <p style="color:red;font-size:13px;">
 ⚠️ Promoção pode sair do ar a qualquer momento
 </p>
