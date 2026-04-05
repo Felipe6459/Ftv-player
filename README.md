@@ -251,8 +251,8 @@ if(time<0) time=600;
 <p style="color:red;font-size:13px;">
 ⚠️ Promoção pode sair do ar a qualquer momento
 </p>
+
 <script>
-  
 // POPUP DINÂMICO
 const nomes = ["Roberto", "Carlos", "Ana", "Marcos", "Juliana", "Fernanda"];
 
