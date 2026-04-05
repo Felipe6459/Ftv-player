@@ -172,6 +172,13 @@ body{
   </div>
 </div>
 
+<h2>📌 Como funciona?</h2>
+
+<p>
+1️⃣ Clique em testar<br>
+2️⃣ Receba acesso no WhatsApp<br>
+3️⃣ Comece a assistir na hora
+</p>
 <h2>⭐ Avaliações</h2>
 
 <div class="review">
