@@ -254,7 +254,34 @@ if(time<0) time=600;
 
 <script>
 // POPUP DINÂMICO
-const nomes = ["Roberto", "Carlos", "Ana", "Marcos", "Juliana", "Fernanda"];
+const nomes = [
+"João - SP",
+"Maria - RJ",
+"Carlos - MG",
+"Ana - BA",
+"Pedro - CE",
+"Lucas - PE",
+"Fernanda - PR",
+"Juliana - RS",
+"Bruno - SC",
+"Rafael - GO",
+"Camila - DF",
+"Felipe - AL",
+"Diego - PA",
+"Larissa - MT",
+"Gustavo - ES",
+
+"Tiago - Lisboa",
+"Sofia - Porto",
+"Miguel - Braga",
+"Beatriz - Coimbra",
+"Rafael - Faro",
+"Joana - Aveiro",
+"Diogo - Setúbal",
+"Inês - Cascais",
+"Ricardo - Sintra",
+"Mariana - Algarve"
+];
 
 setInterval(()=>{
 let p=document.getElementById('popup');
