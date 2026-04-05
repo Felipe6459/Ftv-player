@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 # Ftv-player
-Cineplay TV - Filmes, séries e canais em um só lugar
+<h1>🔥 Mais de 100 mil conteúdos na sua TV</h1>
+<p>Assista tudo em um só lugar sem travamentos</p>
+
+<p style="color:#7b2cff;font-weight:bold;">
+🔥 Teste grátis + ativação imediata
+</p>
 CANCELE A NETFLIX E TENHA TODOS OS CONTEÚDOS EM UM SO LUGAR
 
 <p style="color:#aaa;font-size:14px;">
