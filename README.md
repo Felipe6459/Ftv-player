@@ -149,6 +149,10 @@ body{
     <a class="btn" href="https://wa.me/5582996062108?text=Quero%20teste%20gratis">
       🎁 TESTE GRÁTIS
       <h2>📲 Baixe o App</h2>
+<div style="text-align:center;margin-top:20px;">
+  <img src="https://i.imgur.com/8Km9tLL.png" 
+       style="width:260px;max-width:90%;border-radius:20px;">
+</div>
 
 <!-- ANDROID -->
 <a class="btn" href="http://dl.ntdev.in/89797">
