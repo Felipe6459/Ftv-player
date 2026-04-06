@@ -150,7 +150,8 @@ body{
       🎁 TESTE GRÁTIS
       <h2>📲 Baixe o App</h2>
 <div style="text-align:center;margin-top:20px;">
-  <img src="https://i.imgur.com/8Km9tLL.png" 
+  <img src="https://i.imgur.com/2DhmtJ4.png" 
+style="width:260px;max-width:90%;border-radius:20px;"> 
        style="width:260px;max-width:90%;border-radius:20px;">
 </div>
 
