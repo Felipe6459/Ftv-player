@@ -150,7 +150,8 @@ body{
       🎁 TESTE GRÁTIS
       <h2>📲 Baixe o App</h2>
 <div style="text-align:center;margin-top:20px;">
-  <img src="https://images.unsplash.com/photo-1606813907291-d86efa9b94db?q=80&w=500&auto=format&fit=crop"
+  <div style="text-align:center;margin-top:20px;">
+  <img src="https://i.postimg.cc/SsXBVsR2/Screenshot-20260406-193310-IBO-REVENDA.jpg"
        style="width:260px;max-width:90%;border-radius:20px;">
 </div>
        style="width:260px;max-width:90%;border-radius:20px;">
