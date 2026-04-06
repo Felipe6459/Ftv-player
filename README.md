@@ -154,8 +154,6 @@ body{
   <img src="https://i.postimg.cc/SsXBVsR2/Screenshot-20260406-193310-IBO-REVENDA.jpg"
   style="width:260px;max-width:90%;border-radius:20px;">
 </div>
-       style="width:260px;max-width:90%;border-radius:20px;">
-</div>
 
 <!-- ANDROID -->
 <a class="btn" href="http://dl.ntdev.in/89797">
