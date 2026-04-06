@@ -152,8 +152,7 @@ body{
 <div style="text-align:center;margin-top:20px;">
   <div style="text-align:center;margin-top:20px;">
   <img src="https://i.postimg.cc/SsXBVsR2/Screenshot-20260406-193310-IBO-REVENDA.jpg"
-    
-       style="width:260px;max-width:90%;border-radius:20px;">
+  style="width:260px;max-width:90%;border-radius:20px;">
 </div>
        style="width:260px;max-width:90%;border-radius:20px;">
 </div>
